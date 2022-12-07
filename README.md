@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Heart Disease Prediction with Classification
+DSCI 100 Group Project. More information is in the main `ipynb` file.
